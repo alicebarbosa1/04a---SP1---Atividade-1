@@ -1,0 +1,10 @@
+div {
+display: flex;
+justify-content: space-between;
+background-color: black;
+color: aliceblue;
+height: 50px;
+
+
+
+}
